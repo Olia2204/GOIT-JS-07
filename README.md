@@ -1,1 +1,1 @@
-# GOIT-JS-07
+# GOIT-JS-HW-06
